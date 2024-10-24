@@ -1,5 +1,5 @@
 # TwitterSentiment
-
+The reporsitory has code for performing sentiment analysis on tweets using [BERT](https://github.com/google-research/bert), [XLNet](https://github.com/zihangdai/xlnet), [RoBERTa](https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.md). There are three classes in this dataset: Positive, Negative and Neutral.
 ### Dataset
 https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
